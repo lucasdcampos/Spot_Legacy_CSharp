@@ -1,4 +1,6 @@
-# Spot Engine
+# Spot Engine (Legacy version)
+
+> New repo (C++): https://github.com/lucasdcampos/Spot
 
 Spot is a 2D/3D game engine written in C# (.NET 10), built on [Silk.NET](https://github.com/dotnet/Silk.NET)
 (windowing, OpenGL, input, Assimp) and [Dear ImGui](https://github.com/ocornut/imgui). It ships with an
